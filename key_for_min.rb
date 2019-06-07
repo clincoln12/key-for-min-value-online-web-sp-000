@@ -21,3 +21,5 @@ end
 #then: set the lowest_value to value and lowest_key to key
 
 it doesnt always trigger ecause it gets changed here
+
+no matter what. like lets say the first value is blake
