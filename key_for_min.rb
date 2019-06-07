@@ -31,4 +31,4 @@ lets say its blake
 
 blake's key = blake. value = 500
 
-if lowest value == 0. first try. so its zero
+if lowest value == 0. first try. so its zero. it gets triggered and we 
