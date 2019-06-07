@@ -19,5 +19,3 @@ end
 #if the lowest_value is in it's intial state  
 #or if the value of the current key is less than the lowest_value
 #then: set the lowest_value to value and lowest_key to key
-
-you can also just do this
