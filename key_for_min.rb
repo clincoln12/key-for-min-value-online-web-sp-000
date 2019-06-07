@@ -20,12 +20,5 @@ end
 #or if the value of the current key is less than the lowest_value
 #then: set the lowest_value to value and lowest_key to key
 
-how are u good how r u
-
-hows ur mom
-
-good
-
-how's your mom
-
-good
+the goal was to return the key in a hash
+ with the lowest value , but only the key and not the value. ok
