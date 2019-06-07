@@ -22,4 +22,13 @@ end
 
 it doesnt always trigger ecause it gets changed here
 
-no matter what. like lets say the first value is blake
+no matter what. like lets say the first value is blake fkn midtown ga t gah damn fuckin queers hup
+they ruined the name blake for me srs
+
+anyway
+
+lets say its blake 
+
+blake's key = blake. value = 500
+
+if lowest value == 0. first try. so its zero
