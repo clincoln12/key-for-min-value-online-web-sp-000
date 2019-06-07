@@ -4,11 +4,11 @@
 # name_hash = {:blake => 500, :ashley => 2, :adam => 1}
 
 def key_for_min_value(name_hash)
-  lowest_value = nil
+  lowest_value = 0
   lowest_key = nil
   
   name_hash.each do |key, value|
-    if lowest_value == nil || value < lowest_value
+    if lowest_value == 0 || value < lowest_value
       lowest_value = value 
       lowest_key = key
     end
@@ -19,3 +19,5 @@ end
 #if the lowest_value is in it's intial state  
 #or if the value of the current key is less than the lowest_value
 #then: set the lowest_value to value and lowest_key to key
+
+it doesnt always trigger ecause it gets changed here
